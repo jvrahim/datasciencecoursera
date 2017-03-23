@@ -42,6 +42,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 The dataset includes the following files:
 =========================================
 
-- 'README.txt'
+- 'README.MD'
 - 'tidy_data.txt'
 - 'run_analysis.R.'
+- 'CodeBook.MD'
